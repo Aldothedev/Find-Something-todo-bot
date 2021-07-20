@@ -1,2 +1,6 @@
-# Find-Something-todo-bot
- Bored? Click the button to find something to do.
+# Some of the topics covered while creating this app were:
+- Servers & Clients
+- Request.response cycle
+- API's
+- JSON
+- fetch syntax
